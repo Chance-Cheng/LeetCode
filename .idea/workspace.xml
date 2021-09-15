@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bf0d19b-354c-4557-a91c-cb2bc27697e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeStudy/app/src/二叉树/剑指 Offer 55 - I_二叉树的深度" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeStudy/app/src/二叉树/226_翻转二叉树" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeStudy/app/src/二叉树/剑指 Offer 07_重建二叉树" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeStudy/app/src/二叉树/剑指 Offer 55 - I_二叉树的深度" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeStudy/app/src/二叉树/剑指 Offer 55 - I_二叉树的深度" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +76,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1937" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631611557008">
+    <state x="1937" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631688165726">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
-    <state x="1937" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.804/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631093357490" />
+    <state x="1937" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.804/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631688165726" />
+    <state x="1937" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.805/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631686094997" />
     <state x="1937" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.807/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631611557008" />
   </component>
 </project>
